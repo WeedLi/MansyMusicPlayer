@@ -1,5 +1,5 @@
 # MansyPlayer
-
+![Feature](https://github.com/WeedLi/MansyMusicPlayer/blob/main/featureGraphic.png)
 MansyPlayer is an Android music player for people who keep their music locally and want a clean, focused listening experience.
 
 It is built around local playback, audio tuning, lyrics, themes, playlist organization, and practical media tools. If you want a personal music player for your own files, MansyPlayer is ready to try.
